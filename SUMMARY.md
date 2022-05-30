@@ -2,6 +2,7 @@
 
 * [¿Qué es Proof of Humanity?](README.md)
 * [No sabés por donde comenzar? Empieza aqui](no-sabes-por-donde-comenzar-empieza-aqui.md)
+* [Proof of Humanity FAQ](proof-of-humanity-faq.md)
 
 ## Introducción
 
