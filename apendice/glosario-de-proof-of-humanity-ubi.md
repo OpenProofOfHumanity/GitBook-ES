@@ -8,11 +8,11 @@ Aqui una lista de términos útiles. Los términos en itálica en el texto de la
 
 **Activo Digital:**
 
-Un activo que se almacena, comercia y distribuye de forma digital. Se representan en [_tokens_](broken-reference). Las criptomonedas son un tipo de token.
+Un activo que se almacena, comercia y distribuye de forma digital. Se representan en [_tokens_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md). Las criptomonedas son un tipo de token.
 
 **Address/Dirección:**
 
-Secuencia de dígitos hexadecimales (números del 0 al 9 y de la A a la F) que identifica a una [_cuenta_](broken-reference) o un [_contrato inteligente_](broken-reference).
+Secuencia de dígitos hexadecimales (números del 0 al 9 y de la A a la F) que identifica a una [_cuenta_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) o un [_contrato inteligente_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md).
 
 **Ataque Sybil:**
 
@@ -20,23 +20,23 @@ Un tipo de ataque a la reputación de un sistema donde un actor malicioso crea m
 
 **Blockchain:**
 
-Cadena de bloques es el registro inmutable en el que se graban todas las [_transacciones_](broken-reference) validadas por los nodos de la red.
+Cadena de bloques es el registro inmutable en el que se graban todas las [_transacciones_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) validadas por los nodos de la red.
 
 **Challengear/challenger:**
 
-Acto realizado por una [_wallet_](broken-reference) anónima o perteneciente al _registro_ que denuncia una irregularidad en una persona durante la _fase de pending registration_ al _registro_. El acto de challenge abre una disputa en la Humanity Court de Kleros. Se le llama challenger a la persona que controla una o más cuentas que challengean.
+Acto realizado por una [_wallet_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) anónima o perteneciente al _registro_ que denuncia una irregularidad en una persona durante la _fase de pending registration_ al _registro_. El acto de challenge abre una disputa en la Humanity Court de Kleros. Se le llama challenger a la persona que controla una o más cuentas que challengean.
 
 **Criptomoneda:**
 
-Unidad de valor que representa valor por si mismo, por su escasez y emisión limitada. Una criptomoneda es un tipo de [token](broken-reference).
+Unidad de valor que representa valor por si mismo, por su escasez y emisión limitada. Una criptomoneda es un tipo de [token](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md).
 
 **Crowdfunding:**
 
-Mecanismo por el cual una [_cuenta_](broken-reference) cualquiera puede ayudar a un postulante con una parte o el total del depósito de una submission.
+Mecanismo por el cual una [_cuenta_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) cualquiera puede ayudar a un postulante con una parte o el total del depósito de una submission.
 
 **Cuenta:**
 
-El par de llaves (pública y privada) que controlan los fondos y las [_transacciones_](broken-reference) que ocurren en la [_blockchain_](broken-reference). Es el equivalente a una cuenta bancaria, pero no almacena nada de por sí, sólo es un indicador único dentro de la blockchain. Una cuenta puede ser identificada publicamente por su direccion o address.
+El par de llaves (pública y privada) que controlan los fondos y las [_transacciones_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) que ocurren en la [_blockchain_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md). Es el equivalente a una cuenta bancaria, pero no almacena nada de por sí, sólo es un indicador único dentro de la blockchain. Una cuenta puede ser identificada publicamente por su direccion o address.
 
 **DAO:**
 
@@ -44,7 +44,7 @@ Organizacion Autonoma Decentralizada (por sus siglas en ingles). Organización q
 
 **Delegación:**
 
-Funcionalidad de la plataforma [_snapshot_](broken-reference) para otorgarle el poder de voto a otro _registrado_ con el cual se comparten criterios. La delegación puede ser suspendida votando antes que el delegado o interrumpida en cualquier momento quitando la delegación.
+Funcionalidad de la plataforma [_snapshot_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) para otorgarle el poder de voto a otro _registrado_ con el cual se comparten criterios. La delegación puede ser suspendida votando antes que el delegado o interrumpida en cualquier momento quitando la delegación.
 
 **Democracy Earth:**
 
@@ -60,19 +60,19 @@ Demanda realizada por un _challenger_ en la _Humanity Court_ de _Kleros_. Posee 
 
 **Ether:**
 
-[_Token_](broken-reference) (simbolizado como [ETH](broken-reference)) utilizado para pagar los costos de procesar una transaccion en la [Blockchain](broken-reference) de [Ethereum](broken-reference).
+[_Token_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) (simbolizado como [ETH](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md)) utilizado para pagar los costos de procesar una transaccion en la [Blockchain](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) de [Ethereum](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md).
 
 **ETH:**
 
-Código de 3 letras (tambien llamado ticker en inglés) del [_token Ether_](broken-reference).
+Código de 3 letras (tambien llamado ticker en inglés) del [_token Ether_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md).
 
 **Ethereum:**
 
-Una plataforma [_Blockchain_](broken-reference), decentralizada, y de código abierto, que permite ejecutar _Contratos Inteligentes_ ([_Smart Contracts_](broken-reference)). Ver _Red Ethereum_.
+Una plataforma [_Blockchain_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md), decentralizada, y de código abierto, que permite ejecutar _Contratos Inteligentes_ ([_Smart Contracts_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md)). Ver _Red Ethereum_.
 
 **ERC-20:**
 
-Estandar por el cual se pueden crear monedas o [_Tokens_](broken-reference) Fungibles dentro de la _Blockchain_ de _Ethereum_. _UBI_ es un token ERC-20.
+Estandar por el cual se pueden crear monedas o [_Tokens_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) Fungibles dentro de la _Blockchain_ de _Ethereum_. _UBI_ es un token ERC-20.
 
 **EtherScan:**
 
@@ -84,15 +84,15 @@ Conjunto de palabras reales que se utilizan para recontruir cuentas en una walle
 
 **Gas:**
 
-Es el "combustible" para grabar en la [_blockchain_](broken-reference) de [_Ethereum_](broken-reference), el mismo varia dependiendo de la congestión de la red. Cada punto de gas es el resultado de la cantidad de operaciones que se deben ejecutar en la [transacción](broken-reference) enviada. Cuanto mas compleja es una [transaccion](broken-reference), mas puntos de [gas](broken-reference) se necesitarán.
+Es el "combustible" para grabar en la [_blockchain_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) de [_Ethereum_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md), el mismo varia dependiendo de la congestión de la red. Cada punto de gas es el resultado de la cantidad de operaciones que se deben ejecutar en la [transacción](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) enviada. Cuanto mas compleja es una [transaccion](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md), mas puntos de [gas](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) se necesitarán.
 
 **wei:**
 
-Unidad mínima de division de [_Ether_](broken-reference) ([ETH](broken-reference)) equivalente a la trillonésima parte de un Ether. 1 ETH = 1 x 10^18 wei
+Unidad mínima de division de [_Ether_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) ([ETH](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md)) equivalente a la trillonésima parte de un Ether. 1 ETH = 1 x 10^18 wei
 
 **gwei (**_**gigawei**_**):**
 
-Unidad equivalente a 1 millón de wei. 1 ETH = 10^12 gwei El precio del [gas](broken-reference) se calcula en gweis por punto de gas.
+Unidad equivalente a 1 millón de wei. 1 ETH = 10^12 gwei El precio del [gas](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) se calcula en gweis por punto de gas.
 
 **Hodl:**
 
@@ -120,7 +120,7 @@ Define el estado del proceso de un registro, en la blockhain, y está compuesto 
 
 **Red Ethereum:**
 
-Conjunto de computadoras (nodos) que corren y validan el código de los [smart contracts](broken-reference), y su estado. Ver [_Ethereum_](broken-reference)
+Conjunto de computadoras (nodos) que corren y validan el código de los [smart contracts](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md), y su estado. Ver [_Ethereum_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md)
 
 **Registrado o Miembro:**
 
@@ -128,11 +128,11 @@ Persona ya registrada cuyo registro no expiró.
 
 **Registro:**
 
-Lista curada de humanos [_Registrados_](broken-reference) en Proof of Humanity.
+Lista curada de humanos [_Registrados_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) en Proof of Humanity.
 
 **Postulante:**
 
-Persona que genera el proceso de ser [_registrada_](broken-reference). Requiere de [vouch](broken-reference) y depósito para pasar a la etapa de [pending registration](broken-reference). Su estado cambiara en base a la etapa de registro en la que se encuentra. Esta informacion esta registrada en la blockchain como una [Submission](broken-reference).
+Persona que genera el proceso de ser [_registrada_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md). Requiere de [vouch](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) y depósito para pasar a la etapa de [pending registration](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md). Su estado cambiara en base a la etapa de registro en la que se encuentra. Esta informacion esta registrada en la blockchain como una [Submission](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md).
 
 **Snapshot:**
 
@@ -144,11 +144,11 @@ Estafa o fraude. Abundan en el ecosistema crypto.
 
 **Token:**
 
-[Activo digital](broken-reference) que se puede almacenar en una [cuenta](broken-reference) unica. Representa una unidad de valor que puede equivaler tanto un unico activo (NFTs), como una [_criptomoneda_](broken-reference).
+[Activo digital](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) que se puede almacenar en una [cuenta](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) unica. Representa una unidad de valor que puede equivaler tanto un unico activo (NFTs), como una [_criptomoneda_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md).
 
 **Transacción (tx):**
 
-Operación a registrar en la [_blockchain_](broken-reference). El [_gas_](broken-reference) que se paga se utiliza para registrar definitivamente la transacción con algunas excepciones (si la ejecucion de la transaccion genera un error, una transacción puede consumir el gas y no quedar registrada).
+Operación a registrar en la [_blockchain_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md). El [_gas_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) que se paga se utiliza para registrar definitivamente la transacción con algunas excepciones (si la ejecucion de la transaccion genera un error, una transacción puede consumir el gas y no quedar registrada).
 
 **UBI:**
 
@@ -170,7 +170,7 @@ Billetera o cartera de _activos digitales_. Generalmente es un software que cons
 
 **Binance:**
 
-Plataforma de cambio centralizada (CEX) que permite cambiar [activos digitales](broken-reference) y almacenarlos de forma custodial.
+Plataforma de cambio centralizada (CEX) que permite cambiar [activos digitales](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) y almacenarlos de forma custodial.
 
 #### **BKex:**
 
@@ -186,7 +186,7 @@ Wallet non-custodial que acepta el token UBI y facilita su intercambio por diner
 
 **Ethereum Virtual Machine o EVM:**
 
-Un sistema de computación distribuida que ejecuta los contratos inteligentes y sus [transacciones](broken-reference). Los mineros de ethereum reciben una suma de ethers (el gas) en compensación por este trabajo.
+Un sistema de computación distribuida que ejecuta los contratos inteligentes y sus [transacciones](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md). Los mineros de ethereum reciben una suma de ethers (el gas) en compensación por este trabajo.
 
 **EIP:**
 
@@ -230,7 +230,7 @@ Non-fungible token o token no fungible. Un tipo de token que es único y no igua
 
 **PNK token:**
 
-[Token](broken-reference) de la [DAO](broken-reference) de [Kleros](broken-reference). El staking de este token le da poder de voto a los jurors en las cortes.
+[Token](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) de la [DAO](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) de [Kleros](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md). El staking de este token le da poder de voto a los jurors en las cortes.
 
 **POAP:**
 
@@ -238,7 +238,7 @@ Proof of Attendance Protocol. Protocolo que permite entregar una placa (badge) a
 
 **Polygon:**
 
-Red alternativa a [ethereum](broken-reference) que permite realizar transacciones con menor costo. Requiere swapear hacia esa red.
+Red alternativa a [ethereum](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md) que permite realizar transacciones con menor costo. Requiere swapear hacia esa red.
 
 **Pool - LP token:**
 
@@ -248,7 +248,7 @@ Clave privada con la cual se identifica al propietario de una cuenta. Quien pose
 
 **Smart Contract:**
 
-Software que se ejecuta en la [_EVM_](broken-reference)
+Software que se ejecuta en la [_EVM_](https://github.com/luiandresgonzalez/POH-Gitbook/blob/main/apendice/broken-reference/README.md)
 
 **Swapear:**
 
