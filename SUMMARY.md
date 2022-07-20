@@ -7,6 +7,7 @@
 ## Introducción
 
 * [De 0 a registrado, un vistazo de todos los pasos](introduccion/de-0-a-registrado-un-vistazo-de-todos-los-pasos.md)
+* [Participar en la DAO](introduccion/participar-en-la-dao.md)
 
 ## Guides
 
